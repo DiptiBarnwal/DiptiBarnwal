@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DiptiBarnwal
-- 👀 I’m interested in Travelling 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science from Great Lakes Institute of Management Gurgaon
 - 📫 How to reach me diptikumari2497@gmail.com
 
 <!---
