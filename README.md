@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiptiKumari
-- 🌱 I’m currently learning Data Science from Great Lakes Institute of Management Gurgaon
+- 🌱 Completed Post Graduate Program in Data Science and Engeering from Great Lakes Institute of Management Gurgaon
 - 📫 How to reach me diptikumari2497@gmail.com
 
 <!---
